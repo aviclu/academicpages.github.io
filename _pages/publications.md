@@ -15,7 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-*,&dagger; denotes equal contribution.
 
 
 # 2021
@@ -118,3 +117,5 @@ International Conference on Communications (ICC)
 _Mor Cohen*, <ins>Avi Caciularu</ins>*, Idan Rejwan* and Jonathan Berant_                                          
 International Joint Conferences on Artificial Intelligence (IJCAI): Workshop on Learning and Reasoning (L&R)      
 &nbsp; [Paper](https://arxiv.org/pdf/1710.10453.pdf)
+
+*,&dagger; denotes equal contribution.
