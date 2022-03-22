@@ -27,7 +27,32 @@ The Conference on Empirical Methods in Natural Language Processing, Findings (EM
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
 Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
 The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)                                                   
-&nbsp; [Paper]
+&nbsp; [Paper](https://arxiv.org/pdf/2109.11621.pdf)
+
+**Cold Item Integration in Deep Hybrid Recommenders via Tunable Stochastic Gates**  
+_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins>, Jonathan Weill and Noam Koenigstein_            
+International Conference on Data Mining (ICDM)                                                
+&nbsp; [Paper](https://arxiv.org/pdf/2112.07615.pdf)
+
+**Representation Learning via Variational Bayesian Networks**  
+_Oren Barkan*, <ins>Avi Caciularu</ins>*, Idan Rejwan*, Ori Katz, Jonathan Weill, Itzik Malkiel and Noam Koenigstein_                                                         
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482363)
+
+**Grad-SAM: Explaining Transformers via Gradient Self-Attention Maps**  
+_Oren Barkan*, Edan Hauon*, <ins>Avi Caciularu</ins>*, Ori Katz, Itzik Malkiel, Omri Armstrong and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper](https://dl.acm.org/doi/10.1145/3459637.3482126)
+
+**Anchor-based Collaborative Filtering**  
+_Oren Barkan*, Roy Hirsch*, Ori Katz*, <ins>Avi Caciularu</ins> and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482056)
+
+**GAM: Explainable Visual Similarity and Classification via Gradient Activation Maps**  
+_Oren Barkan*, Omri Armstrong*, Amir Hertz*, <ins>Avi Caciularu</ins>, Ori Katz, Jonathan Weill, Itzik Malkiel and Noam Koenigstein_                                        
+International Conference on Information and Knowledge Management (CIKM)                                        
+&nbsp; [Paper](https://arxiv.org/pdf/2109.00951.pdf)
 
 **On the Evolution of Word Order**  
 _Idan Rejwan and <ins>Avi Caciularu</ins>_                                                                                         
