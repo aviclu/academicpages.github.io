@@ -15,7 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# 2022
 
+**Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space
+**                                                                                
+_Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                         
+&nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
+
+---
 
 # 2021
 
@@ -79,6 +86,8 @@ _<ins>Avi Caciularu</ins>*, Nir Raviv*, Tomer Raviv, Jacob Goldberger and Yair B
 IEEE Transactions on Cognitive Communications and Networking, Special Issue            
 &nbsp; [Paper](https://arxiv.org/pdf/2002.02315.pdf) 
 
+---
+
 # 2020
 
 **Within-Between Lexical Relation Classification**  
@@ -125,6 +134,8 @@ IEEE Transactions on Cognitive Communications and Networking (TCCN)
 _Oren Barkan*, Noam Razin*, Itzik Malkiel, Ori Katz, <ins>Avi Caciularu</ins> and Noam Koenigstein_            
 AAAI Conference on Artificial Intelligence (AAAI)                        
 &nbsp; [Paper](https://arxiv.org/ftp/arxiv/papers/1908/1908.05161.pdf) 
+
+---
 
 # 2018
 
