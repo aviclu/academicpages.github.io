@@ -18,7 +18,7 @@ author_profile: true
 # 2022
 
 **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
-Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg                                                                
+_Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
 &nbsp; [Paper](https://arxiv.org/pdf/2203.14680.pdf) 
 
 ---
@@ -31,7 +31,7 @@ The Conference on Empirical Methods in Natural Language Processing, Findings (EM
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
-Eran Hirsch, Alon Eirew, Ori Shapira, _<ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
+_Eran Hirsch, Alon Eirew, Ori Shapira, <ins>Avi Caciularu</ins>, Arie Cattan, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_            
 The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo)                                                   
 &nbsp; [Paper](https://arxiv.org/pdf/2109.11621.pdf)
 
