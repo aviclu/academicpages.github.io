@@ -17,9 +17,8 @@ author_profile: true
 
 # 2022
 
-**Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space
-**                                                                                
-_Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                         
+**Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
+Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 ---
