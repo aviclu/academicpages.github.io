@@ -17,7 +17,7 @@ author_profile: true
 
 # 2022
 
-**A Proposition-Level Clustering Approach for Multi-Document Summarization**                                        
+**Long Context Question Answering via Supervised Contrastive Learning**                                        
 _<ins>Avi Caciularu</ins>,Ido Dagan, Jacob Goldberger and Arman Cohan_                                                                  
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                              
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08777.pdf)
@@ -29,7 +29,7 @@ The Annual Conference of the North American Chapter of the Association for Compu
 
 **LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models**                                                                      
 _Mor Geva, <ins>Avi Caciularu</ins>, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                                                                
-&nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) [Demo](https://lm-debugger.apps.allenai.org/)
+&nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) &nbsp; [Demo](https://lm-debugger.apps.allenai.org/)
 
 **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
 _Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
