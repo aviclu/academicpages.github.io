@@ -18,7 +18,7 @@ author_profile: true
 # 2022
 
 **Long Context Question Answering via Supervised Contrastive Learning**                                        
-_<ins>Avi Caciularu</ins>,Ido Dagan, Jacob Goldberger and Arman Cohan_                                                                  
+_<ins>Avi Caciularu</ins>, Ido Dagan, Jacob Goldberger and Arman Cohan_                                                                  
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                              
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08777.pdf)
 
