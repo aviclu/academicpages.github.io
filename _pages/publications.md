@@ -17,9 +17,34 @@ author_profile: true
 
 # 2022
 
+**A Proposition-Level Clustering Approach for Multi-Document Summarization**                                        
+_<ins>Avi Caciularu</ins>*,Ido Dagan, Jacob Goldberger and Arman Cohan                                                                  
+The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                              
+&nbsp; [Paper](https://arxiv.org/pdf/2112.08777.pdf)
+
+**A Proposition-Level Clustering Approach for Multi-Document Summarization**                                        
+_Ori Ernst, <ins>Avi Caciularu</ins>*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan              
+The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                             
+&nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf)
+
+**LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models**                                                                      
+_Mor Geva*, <ins>Avi Caciularu</ins>*, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                                                                
+&nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) [Demo](https://lm-debugger.apps.allenai.org/)
+
 **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
 _Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
 &nbsp; [Paper](https://arxiv.org/pdf/2203.14680.pdf) 
+
+**Interpreting BERT-based Text Similarity via Activation and Saliency Maps**  
+_Itzik Malkiel, Dvir Ginzburg, Oren Barkan, <ins>Avi Caciularu</ins>, Jonathan Weill and Noam Koenigstein_       
+The Web Conference (WWW)            
+&nbsp; [Paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3512045) 
+
+**MetricBERT: Text Representation Learning via Self-Supervised Triplet Training**  
+_Itzik Malkiel, Dvir Ginzburg, Oren Barkan, <ins>Avi Caciularu</ins>, Jonathan Weill and Noam Koenigstein_       
+International Conference on Acoustics, Speech, and Signal Processing (ICASSP)            
+&nbsp; [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9746018) 
+
 
 ---
 
