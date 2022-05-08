@@ -18,12 +18,12 @@ author_profile: true
 # 2022
 
 **A Proposition-Level Clustering Approach for Multi-Document Summarization**                                        
-_<ins>Avi Caciularu</ins>*,Ido Dagan, Jacob Goldberger and Arman Cohan                                                                  
+_<ins>Avi Caciularu</ins>,Ido Dagan, Jacob Goldberger and Arman Cohan_                                                                  
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                              
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08777.pdf)
 
 **A Proposition-Level Clustering Approach for Multi-Document Summarization**                                        
-_Ori Ernst, <ins>Avi Caciularu</ins>*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan              
+_Ori Ernst, <ins>Avi Caciularu</ins>*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan_              
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                             
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf)
 
