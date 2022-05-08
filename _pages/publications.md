@@ -28,7 +28,7 @@ The Annual Conference of the North American Chapter of the Association for Compu
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf)
 
 **LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models**                                                                      
-_Mor Geva*, <ins>Avi Caciularu</ins>*, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                                                                
+_Mor Geva, <ins>Avi Caciularu</ins>, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                                                                
 &nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) [Demo](https://lm-debugger.apps.allenai.org/)
 
 **Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
