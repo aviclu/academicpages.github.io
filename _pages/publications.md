@@ -17,6 +17,26 @@ author_profile: true
 
 # 2022
 
+**Cross-document Event Coreference Search: Task, Dataset and Modeling**                                                    
+_‪Alon Eirew‬, <ins>Avi Caciularu</ins>, and Ido Dagan_.                                                             
+The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                          
+&nbsp; [Paper]
+
+**QASem Parsing: Text-to-text Modeling of QA-based Semantics**                                                    
+_Ayal Klein, Eran Hirsch, Ron Eliav, Valentina Pyatkin, <ins>Avi Caciularu</ins>, and Ido Dagan_.                    
+The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                          
+&nbsp; [Paper](https://arxiv.org/pdf/2205.11413.pdf) 
+
+**Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
+_Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
+The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                          
+&nbsp; [Paper](https://arxiv.org/pdf/2203.14680.pdf) 
+
+**LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models**                                                                      
+_Mor Geva, <ins>Avi Caciularu</ins>, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                        
+The Conference on Empirical Methods in Natural Language Processing, System demonstrations (EMNLP demo).             
+&nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) &nbsp; [Demo](https://lm-debugger.apps.allenai.org/)
+
 **Long Context Question Answering via Supervised Contrastive Learning**                                        
 _<ins>Avi Caciularu</ins>, Ido Dagan, Jacob Goldberger and Arman Cohan_                                                                  
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                              
@@ -26,14 +46,6 @@ The Annual Conference of the North American Chapter of the Association for Compu
 _Ori Ernst, <ins>Avi Caciularu</ins>*, Ori Shapira*, Ramakanth Pasunuru, Mohit Bansal, Jacob Goldberger and Ido Dagan_              
 The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)                             
 &nbsp; [Paper](https://arxiv.org/pdf/2112.08770.pdf)
-
-**LM-Debugger: An Interactive Tool for Inspection and Intervention in Transformer-Based Language Models**                                                                      
-_Mor Geva, <ins>Avi Caciularu</ins>, Guy Dar, Paul Roit, Shoval Sadde, Micah Shlain, Bar Tamir and Yoav Goldberg_                                                                
-&nbsp; [Paper](https://arxiv.org/pdf/2204.12130.pdf) &nbsp; [Demo](https://lm-debugger.apps.allenai.org/)
-
-**Transformer Feed-Forward Layers Build Predictions by Promoting Concepts in the Vocabulary Space**                                                                      
-_Mor Geva*, <ins>Avi Caciularu</ins>*, Kevin Ro Wang, and Yoav Goldberg_                                                                
-&nbsp; [Paper](https://arxiv.org/pdf/2203.14680.pdf) 
 
 **Interpreting BERT-based Text Similarity via Activation and Saliency Maps**  
 _Itzik Malkiel, Dvir Ginzburg, Oren Barkan, <ins>Avi Caciularu</ins>, Jonathan Weill and Noam Koenigstein_       
@@ -52,7 +64,7 @@ International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 
 **Cross-document Language Modeling**                                                                                
 _<ins>Avi Caciularu</ins>, Arman Cohan, Iz Beltagy, Matthew E. Peters, Arie Cattan and Ido Dagan_                                                         
-The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                                                                      
+The Conference on Empirical Methods in Natural Language Processing, Findings (EMNLP Findings)                                                                                          
 &nbsp; [Paper](https://arxiv.org/pdf/2101.00406.pdf) 
 
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**                                                                 
