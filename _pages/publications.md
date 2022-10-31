@@ -20,7 +20,7 @@ author_profile: true
 **Cross-document Event Coreference Search: Task, Dataset and Modeling**                                                    
 _‪Alon Eirew‬, <ins>Avi Caciularu</ins>, and Ido Dagan_.                                                             
 The Conference on Empirical Methods in Natural Language Processing (EMNLP)                                          
-&nbsp; [Paper]
+&nbsp; [Paper](https://arxiv.org/pdf/2210.12654.pdf)
 
 **QASem Parsing: Text-to-text Modeling of QA-based Semantics**                                                    
 _Ayal Klein, Eran Hirsch, Ron Eliav, Valentina Pyatkin, <ins>Avi Caciularu</ins>, and Ido Dagan_.                    
